@@ -1,4 +1,3 @@
-# Search-Engine-LLM
 ---
 license: apache-2.0
 title: Search Engine
